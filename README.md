@@ -2,7 +2,7 @@
 
 **This is just an experiment repo. The eventual goal is to create a configurable library.**
 
-A Fluentd OUTPUT server that implements Fluentd's [Forward output specification](https://github.com/fluent/fluentd/wiki/Forward-Protocol-Specification-v1#eventtime-ext-format). In otherwords, a server that receives messages from FluentD. For sending logs to FluentD, checkout projects like [Fluentd logger backend](https://github.com/jackjoe/logger-fluentd-backend).
+A Fluentd OUTPUT server that implements Fluentd's [Forward output specification](https://github.com/fluent/fluentd/wiki/Forward-Protocol-Specification-v1#eventtime-ext-format). In other words, a server that receives messages from FluentD. For sending logs to FluentD, check out projects like [Fluentd logger backend](https://github.com/jackjoe/logger-fluentd-backend).
 
 This repo is largely based on wojtekmach's [Fluentx](https://github.com/wojtekmach/fluentx).
 
